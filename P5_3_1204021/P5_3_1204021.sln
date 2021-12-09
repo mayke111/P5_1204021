@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5_3_1204021", "P5_3_1204021\P5_3_1204021.csproj", "{15109768-09B8-4421-99EB-B673C8B37D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5_3_1204021_Formulir", "P5_3_1204021_Formulir\P5_3_1204021_Formulir.csproj", "{1FAEBA6B-BEE5-4871-85BA-0D9A1012A4DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15109768-09B8-4421-99EB-B673C8B37D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15109768-09B8-4421-99EB-B673C8B37D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15109768-09B8-4421-99EB-B673C8B37D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15109768-09B8-4421-99EB-B673C8B37D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FAEBA6B-BEE5-4871-85BA-0D9A1012A4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAEBA6B-BEE5-4871-85BA-0D9A1012A4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAEBA6B-BEE5-4871-85BA-0D9A1012A4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAEBA6B-BEE5-4871-85BA-0D9A1012A4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
