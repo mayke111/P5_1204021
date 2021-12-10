@@ -13,8 +13,6 @@ namespace P5_3_1204021_Formulir
 {
     public partial class Form1 : Form
     {
-        private object epWarn;
-
         public Form1()
         {
             InitializeComponent();
